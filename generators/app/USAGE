@@ -1,0 +1,7 @@
+Description:
+	Generates a bunch of files and configs based on the selected options to be used in repos maintained by the Ventures Team.
+
+Example:
+	ventures
+
+	This will compose ventures:github and ventures:dotfiles that could be as well used separately.

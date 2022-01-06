@@ -1,0 +1,21 @@
+{
+  "name": "generator-ventures",
+  "version": "0.0.1",
+  "description": "Generate the boilerplate for a WooCommerce plugin repo by Ventures Team.",
+  "main": "generators/app/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators"
+  ],
+  "author": "WooCommerce",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "yeoman-generator": "^5.4.2"
+  }
+}
