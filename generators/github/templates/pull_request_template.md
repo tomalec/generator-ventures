@@ -14,9 +14,9 @@ _Replace this with a good description of your changes & reasoning._
 
 ### Detailed test instructions:
 
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
 
 ### Additional details:
