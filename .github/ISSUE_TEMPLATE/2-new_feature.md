@@ -2,7 +2,7 @@
 name: ✨ New feature
 about: Add a new feature to be implemented or improved
 title: ''
-labels: ''
+labels: 'type: enhancement'
 assignees: ''
 
 ---
