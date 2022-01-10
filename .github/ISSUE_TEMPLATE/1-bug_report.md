@@ -25,4 +25,3 @@ assignees: ''
 ### Additional details:
 <!--Any additional details you think might be helpful.-->
 <!--Ticket numbers/links, plugin versions, system statuses etc.-->
-
