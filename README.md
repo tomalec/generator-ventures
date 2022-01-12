@@ -7,11 +7,11 @@ Yeoman generator that helps to unify the repos maintained by the Ventures Team.
 
 0. Install `npm`
 1. Install Yeoman globally `npm i -g yo`.
-2. Install this generator globally `npm i -g generator-ventures`.
-	That will be available once we publish this package.
-	Before that, you can:
-	1. clone this repo
-	2. run `npm link` from the cloned directory
+2. Install this generator globally
+	- Before the package is published you need to clone and link it manually:
+		1. clone this repo
+		2. run `npm link` from the cloned directory
+	- Once the package is published `npm i -g generator-ventures` would work.
 
 
 ## Usage
